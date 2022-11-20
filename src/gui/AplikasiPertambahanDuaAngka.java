@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @Salehuddin
+ *
  */
 public class AplikasiPertambahanDuaAngka extends javax.swing.JFrame {
 
